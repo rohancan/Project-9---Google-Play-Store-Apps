@@ -1,1 +1,5 @@
 # Project-9---Google-Play-Store-Apps
+
+Objective: The main objective of this analysis is to understand the factors that contribute to the success & popularity of mobile applications in the app market, with a major focus on the app’s category, rating, reviews, size, installs, type, price, content rating, and genres. By examining these factors, we aim to identify patterns and insights that can help app developers and stakeholders make informed decisions to improve the performance of the app and user engagement. 
+
+Hypothesis: We hypothesize that certain factors such as higher ratings, larger number of reviews, lower app size, and being free (rather than paid) may have a positive impact on app installs and user engagement. Additionally, we expect that specific app categories and genres tailored to specific target age groups might lead to higher app popularity within those segments. By conducting an in-depth analysis of these factors, we aim to validate these hypotheses and provide actionable recommendations to enhance the success of mobile applications in the market. 
